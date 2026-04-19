@@ -35,3 +35,4 @@ bcl2fastq \
   -p 12
 
 echo "Bulk RNA-seq conversion completed"
+/bin/hostname

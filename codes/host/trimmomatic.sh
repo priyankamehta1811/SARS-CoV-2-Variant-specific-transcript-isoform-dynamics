@@ -47,3 +47,4 @@ done
 
 echo "All samples trimmed successfully!"
 date
+/bin/hostname
